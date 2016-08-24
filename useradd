@@ -1,1 +1,1 @@
-useradd -m -g users -G wheel -s /bin/bash midfingr
+useradd -m -g users -G wheel -s /bin/bash march

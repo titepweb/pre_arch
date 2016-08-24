@@ -8,7 +8,7 @@ chmod +x /pre_arch/mirrors
 chmod +x /pre_arch/up-grub
 mv /pre_arch/mirrors /usr/bin/
 mv /pre_arch/up-grub /usr/bin/
-mv /pre_arch/.bashrc /home/midfingr/
-chown midfingr /home/midfingr/.bashrc
+mv /pre_arch/.bashrc /home/march/
+chown march /home/march/.bashrc
 touch /etc/vconsole.conf
 echo FONT=iso02-12x22 > /etc/vconsole.conf

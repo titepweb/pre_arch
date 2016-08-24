@@ -4,4 +4,4 @@ echo en_US ISO-8859-1 >> /etc/locale.gen
 locale-gen
 locale > /etc/locale.conf
 cat /etc/locale.conf
-ln -s /usr/share/zoneinfo/Canada/Eastern /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime
